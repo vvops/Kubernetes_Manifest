@@ -1,0 +1,1 @@
+манифесты kubernetes
